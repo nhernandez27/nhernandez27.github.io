@@ -1,0 +1,23 @@
+body {
+	background: url(Images/upsidedown.gif);
+	background-size: 1475px 920px;
+	background-repeat: repeat;
+	font-family: lucida, cursive;
+}
+h1 {
+	color: #000000;
+	text-align: center;
+	text-shadow: 2px 2px 3px #FF1515, 0 0 28px #FF1515, 0 0 8px #FF1515;
+	font-family: lucida, cursive;
+}
+a {
+	color: #000000;
+}
+img {
+	padding-top: 5%;
+	width: 295px;
+	height: 300px;
+	background: center;
+	text-align: center;
+
+}
